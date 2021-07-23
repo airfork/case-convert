@@ -1,4 +1,4 @@
-# Camel to Snake
+# Case Convert
 
 A python script that takes in a file and converts anything in camelCase to snake_case.
 Definitely needs more testing and may be expanded to support other case conversions as
